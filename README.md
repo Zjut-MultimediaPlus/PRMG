@@ -1,7 +1,7 @@
 # PRMG
 PRMG is a deep-learning-based precipitation retrieval framework that employs multimodal fusion of infrared, passive microwave, and radar observations, together with geographical information correction, to address modality heterogeneity and terrain-induced biases.
 
-For more information or paper "Precipitation Retrieval integrating Multiple Satellite Observations: A Dataset and A Framework", please refer to [here](https://ieeexplore.ieee.org/abstract/document/11068950).
+For more information or paper **"Precipitation Retrieval integrating Multiple Satellite Observations: A Dataset and A Framework"**, please refer to [here](https://ieeexplore.ieee.org/abstract/document/11068950).
 
 
 ![image](https://github.com/Zjut-MultimediaPlus/PRMG/blob/main/img.png)
