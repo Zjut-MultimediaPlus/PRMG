@@ -28,15 +28,15 @@ For more information or paper **"Precipitation Retrieval integrating Multiple Sa
 [[click to download Precipitation-MG]](https://pan.baidu.com/s/1Ciku8U78znWDX4ITD62TfA?pwd=9999)
 fetch code: ```9999```
 
-PRMD_DATA_21-22_npy_v4: Data file in NPY format, used to accelerate used to accelerate file reading during training
+**PRMD_DATA_21-22_npy_v4**: Data file in NPY format, used to accelerate used to accelerate file reading during training
 
-PRMD_DATA_21-22_v4: Data file in HDF format, convenient for viewing data with Panoply software
+**PRMD_DATA_21-22_v4**: Data file in HDF format, convenient for viewing data with Panoply software
 
  
 
 # Train
 
-you can use train_classify_geo_npy.py and train_regress_geo_npy.py to train your new model.
+you can use **train_classify_geo_npy.py** and **train_regress_geo_npy.py** to train your new model.
 
  
 # Test
@@ -45,7 +45,7 @@ fetch code: ```9999```
 
 move the downloaded files into folder  ```checkpoints_cls``` and ```checkpoints_reg```  
 
-You can use evaluate_test_two_stage_gpu.py to test your model.
+You can use **evaluate_test_two_stage_gpu.py** to test your model.
 
  
 
