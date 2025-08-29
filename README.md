@@ -52,6 +52,11 @@ You can use **evaluate_test_two_stage_gpu.py** to test your model.
 # Environment
 Python 3.8+ pytorch-1.12.0-cuda11.3-cudnn8.2 
 
+# Notes
+This dataset contains **CLDAS-V2.0 data**.  
+Before using this dataset, please register as a member of the [China Meteorological Data Service Center](https://data.cma.cn/article/getLeft/id/287/keyIndex/7.html?menuId=24) and strictly comply with the membership obligations and usage regulations.
+
+
 # Citation
  ```
 @ARTICLE{11068950,
